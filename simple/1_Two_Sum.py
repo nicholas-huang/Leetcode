@@ -11,3 +11,4 @@ class Solution(object):
                 return [dic[target-value],index]
             else:
                 dic[value] = index
+
